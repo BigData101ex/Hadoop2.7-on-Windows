@@ -10,7 +10,7 @@ I have not tested the binaries in Windows 10 setup. if anyone were able to test 
 
 # How to Use
 
- Download the zip file of the binaries and follow the last steps (from video playhead 1:38 ) suggested in my youtube video.
+ Download the zip file of the binaries and follow the last steps (from video playhead 1:38 ) suggested in my youtube video (https://www.youtube.com/watch?v=vLVWrGGqGJU).
  
 # How to debug
 
